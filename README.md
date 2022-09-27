@@ -5,7 +5,7 @@ Sample tests are written in java using cucumber. A repository was established du
 
 ## Technologies:
 - Java
-- Cucumber [Cucumber Documentation](https://cucumber.io/)
+- [Cucumber](https://cucumber.io/)
 
 ## How to start:
 1. Clone this repository.
